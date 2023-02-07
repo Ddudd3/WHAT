@@ -1,0 +1,22 @@
+var vm = https://console.nutanix.com/newport-news-public-school-district/nnps/nnps-unity/launchpad/unity
+
+
+var inter = https://v4.wiki
+
+
+var rammer = https://edu.mordeco.com
+//https://toocoolforschool.ml/
+
+
+var unblock = prompt("Rammerhead(1), Intersteller(2), or Virtual machine(3)")
+if(unblock=="1"){
+var win = window.open(); win.document.title = "Drive"; var f = win.document.createElement("iframe"); window.focus(); var url = rammer; if (!url) return; f.style.width = "100%"; f.style.height = "100%"; win.document.body.appendChild(f); f.src=url; win.document.body.style.margin = '0'; f.style.border = 'none'; f.style.margin = '0'; win.document.body.style.height = '100vh'
+}else{
+if(unblock=="2"){
+var win = window.open(); win.document.title = "Drive"; var f = win.document.createElement("iframe"); window.focus(); var url = inter; if (!url) return; f.style.width = "100%"; f.style.height = "100%"; win.document.body.appendChild(f); f.src=url; win.document.body.style.margin = '0'; f.style.border = 'none'; f.style.margin = '0'; win.document.body.style.height = '100vh'
+}
+if(unblock=="3"){
+var win = window.open(); win.document.title = "Drive"; var f = win.document.createElement("iframe"); window.focus(); var url = vm; if (!url) return; f.style.width = "100%"; f.style.height = "100%"; win.document.body.appendChild(f); f.src=url; win.document.body.style.margin = '0'; f.style.border = 'none'; f.style.margin = '0'; win.document.body.style.height = '100vh'
+}
+window.close()
+}
