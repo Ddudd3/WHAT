@@ -1,0 +1,17 @@
+var id = localStorage.getItem("ID")
+var kill = "false" 
+const auth = [
+];
+var a = auth.includes(id);
+function check(){
+if(a="true"){
+print("aa");
+}else{ 
+window.close()
+}
+}
+if(kill="true"){
+window.close()
+}else{
+check();
+}
