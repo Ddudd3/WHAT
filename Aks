@@ -1,6 +1,7 @@
 var id = localStorage.getItem("ID")
 var kill = "false" 
 const auth = [
+"dWnO1Xj9cx",
 ];
 var a = auth.includes(id);
 function check(){
